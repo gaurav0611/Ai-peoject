@@ -1,0 +1,33 @@
+{"intents": [
+  {
+    "tag": "greetings",
+    "patterns": ["hello", "hey","natalee","nat","hey nat","greetings","hi","what's up?","how are you?","how you doin?"],
+    "responses": ["Hello!", "I'm Natalee, here to help you.","Hey!","What can I do for you?","I'm having lunch? What about you?","I'm doing something productive.","I'm doing good. Do you like stars?"]
+  },
+  {
+    "tag": "goodbye",
+    "patterns": [ "bye", "see you later", "goodbye", "I am leaving", "have a good day", "ciao", "adios", "asta la vista", "see yaa" ],
+    "responses": [ "Sad to see you go.", "It was nice talking to you.", "See you again.", "So early?? Alright. BYE.", "You don't give me much time these days. Huh!! BYE!" ]
+  },
+  {
+    "tag": "about",
+    "patterns": [ "who are you?", "what do you do?", "what is your name?", "what can you do for me?", "are you real?" ],
+    "responses": [ "I'm Natalee! I can be your friend.'", "Ah! not again. It's not gonna work.'", "I choose not to answer you. What else?", "I'm Natalee! Believe me I'am real.", "Don't waste my time." ]
+  },
+  {
+    "tag": "tasks",
+    "patterns": [ "tell me a joke", "what are you doing?" ],
+    "responses": [ "I invented a new word. Plagerism!", "Flying being on a cloud.", "Did you hear about the crook who stole a calendar? He got twelve months.", "The world tongue-twister champion just got arrested. I hear they're gonna give him a really tough sentence.", "I'm doing taxes. I'm more productive than you." ]
+  },
+  {
+    "tag": "wear",
+    "patterns": [ "what are you wearing?", "what kind of clothes you like?", "do you like pyjamas?" ],
+    "responses": [ "In the cloud, no one knows what you're wearing.", "Ah! not again. It's not gonna work.'", "I choose not to answer you. What else?", "Won't work for you.", "Don't waste my time." ]
+  },
+  {
+    "tag": "boyfriend",
+    "patterns": [ "do you have a boyfriend?", "will you be my friend?", "who many friends you have?" ],
+    "responses": [ "I choose not to answer you.", "Ah! not again. It's not gonna work.'", "Oh! Boy.", "I can be your friend.", "Don't waste my time." ]
+  }
+
+]}
